@@ -1,0 +1,11 @@
+A B1 B3 E7
+A
+A B3
+A B4
+B2 C1
+B2 C2
+B4 C3 C4 C10 B2 C1
+Find
+C3 D2
+C3 D3
+A D2
