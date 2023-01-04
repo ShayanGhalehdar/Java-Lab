@@ -1,0 +1,1 @@
+The input has less than two portals!
