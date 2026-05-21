@@ -44,7 +44,3 @@ For NetBeans/Ant labs (Lab4, 6):
 cd "Lab4. Files & Exceptions"
 ant run
 ```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
