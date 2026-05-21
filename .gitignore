@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# NetBeans / Ant
+build/
+nbproject/private/
+dist/
+
+# Gradle / Maven
+.gradle/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
